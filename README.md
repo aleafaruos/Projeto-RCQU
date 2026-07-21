@@ -30,7 +30,7 @@ Dataset público retirado do Kaggle: [nome do dataset](link-do-kaggle-aqui).
 1. Clone o repositório:
 ```bash
    git clone https://github.com/aleafaruos/Projeto-RCQU
-   cd projeto
+   cd projeto-RCQU
 ```
 
 2. Crie um ambiente virtual e instale as dependências:
@@ -49,11 +49,19 @@ Dataset público retirado do Kaggle: [nome do dataset](link-do-kaggle-aqui).
 
 4. Use o dado processado (`df_2.csv`) nas análises/notebooks.
 
+
+
 ## Autores
 
-<a href="https://github.com/aleafaruos">
-  <img src="https://github.com/aleafaruos.png" width="80" style="border-radius:50%">
-  <br>
-  Dimadim
-</a>
+<div align="center">
+
+| <a href="https://github.com/aleafaruos"><img src="https://github.com/aleafaruos.png" width="80" style="border-radius:50%"></a> | <a href="https://github.com/lucashc-c"><img src="https://github.com/lucashc-c.png" width="80" style="border-radius:50%"></a> |
+|:---:|:---:|
+| Dimadim | Luquinhas |
+
+</div>
+
+
+
+
 
