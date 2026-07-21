@@ -57,7 +57,7 @@ Dataset público retirado do Kaggle: [nome do dataset](link-do-kaggle-aqui).
 
 | <a href="https://github.com/aleafaruos"><img src="https://github.com/aleafaruos.png" width="80" style="border-radius:50%"></a> | <a href="https://github.com/lucashc-c"><img src="https://github.com/lucashc-c.png" width="80" style="border-radius:50%"></a> |
 |:---:|:---:|
-| Dimadim | Luquinhas |
+| Rafaela | Lucas |
 
 </div>
 
