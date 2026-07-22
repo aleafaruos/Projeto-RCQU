@@ -8,7 +8,8 @@ análise exploratória de dados de colesterol e fatores de risco cardíaco, data
 projetohd/
 ├── dados.csv         
 ├── df_2.csv          
-├── limpeza.py         
+├── limpeza.py 
+├── dados_doencas.db
 ├── pergunta_1_a.py
 ├── pergunta_1_b.py
 ├── pergunta_1_c.py
@@ -17,13 +18,14 @@ projetohd/
 ├── pergunta_3.py
 ├── pergunta_4.py
 ├── pergunta_5.py
+├── parte_sql.py
 ├── requirements.txt
 └── README.md
 ```
 
 ## Fonte dos dados
 
-Dataset público retirado do Kaggle: [nome do dataset](link-do-kaggle-aqui).
+Dataset público retirado do Kaggle: [nome do dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction).
 
 ## Como rodar o projeto
 

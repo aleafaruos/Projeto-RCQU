@@ -4,13 +4,11 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 import seaborn as sns
-from scipy.optimize import curve_fit
 
 df_2 = pd.read_csv("df_2.csv")
 
 plt.figure(figsize=(8,5))
 
-df_doenca = df_2[df_2["Doença_Cardíaca"] == 1]
 idade_homens = df_doenca[df_doenca["Sexo"] == "M"]["Idade"]
 idade_mulheres = df_doenca[df_doenca["Sexo"] == "F"]["Idade"]
 
