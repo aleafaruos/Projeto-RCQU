@@ -25,7 +25,7 @@ projetohd/
 
 ## Fonte dos dados
 
-Dataset público retirado do Kaggle: [nome do dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction).
+Dataset público retirado do Kaggle: (https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction).
 
 ## Como rodar o projeto
 
